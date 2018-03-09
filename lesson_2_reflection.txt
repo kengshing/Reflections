@@ -23,5 +23,6 @@ The code from the second brach is merged to the first branch, with all the commi
 
 What are the pros and cons of Git's automatic merging vs. always doing merges
 manually?
+automatic save time. manually can ensure that the merge is correctly done. Manually might have missed some of the changes
 
 
