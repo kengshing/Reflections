@@ -19,6 +19,7 @@ Surely it halps. But it make my head bigger
 
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
+The code from the second brach is merged to the first branch, with all the commit history.
 
 What are the pros and cons of Git's automatic merging vs. always doing merges
 manually?
