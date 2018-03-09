@@ -3,3 +3,8 @@ When I need to coleborate with other team member
 
 Why might you want to always pull changes manually rather then having Git automatically stay up-to-date with your remote repository?
 we only sync when we want
+
+Describe the differences betwen forks, clones, and branches. When would you use one instead of another?
+Folks - clone in Github, with ref to origin repository
+Close - clone from remote to local, or local to local, no link with original repository
+Branches - branch within same repository
